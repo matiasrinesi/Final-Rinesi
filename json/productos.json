@@ -1,0 +1,45 @@
+[
+    {
+        "equipo": "Barcelona",
+        "modelo": "Titular",
+        "precio": 10000,
+        "stock": 25,
+        "img": "../images/camiseta_barca_2022.png"
+ 
+    },
+    {
+        "equipo": "PSG",
+        "modelo": "Suplente",
+        "precio": 12000,
+        "stock": 12,
+        "img": "../images/messipsg.webp"
+        
+ 
+    },
+    {
+        "equipo": "Real Madrid",
+        "modelo": "suplente",
+        "precio": 10000,
+        "stock": 20,
+        "img": "../images/Real_2022.webp"
+ 
+    },
+    {
+        "equipo": "Argentina",
+        "modelo": "Titular",
+        "precio": 15000,
+        "stock": 10,
+        "img": "../images/arg__2022.jpg"
+ 
+    },
+    {
+        "equipo": "Arsenal",
+        "modelo": "Titular",
+        "precio": 10000,
+        "stock": 30,
+        "img": "../images/arsenal_2022.jpg"
+ 
+    }
+
+
+]
